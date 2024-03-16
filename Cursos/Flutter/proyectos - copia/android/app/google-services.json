@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791586191074",
+    "project_id": "delivery-app-4654f",
+    "storage_bucket": "delivery-app-4654f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791586191074:android:03db24efdab54c16ee10bb",
+        "android_client_info": {
+          "package_name": "com.daniel.proyectos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyPKJqfLck7saFJew0OM9elMQnX-gebzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
